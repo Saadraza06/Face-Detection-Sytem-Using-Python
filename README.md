@@ -53,3 +53,12 @@ Developed by Muhammad Saad Raza
 License
 
 This project is open-source and available under the MIT License.
+
+# 👤 About Me
+Aspiring Data Scientist
+
+Passionate about ML, NLP, and real-world problem solving.
+
+📍 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad-raza-7a98b0286)
