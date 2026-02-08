@@ -15,7 +15,7 @@ Simple and beginner-friendly implementation
 
 Easy to extend for additional features like face recognition
 
-# Technologies Used
+# 🛠️ Technologies Used
 
 Python
 
